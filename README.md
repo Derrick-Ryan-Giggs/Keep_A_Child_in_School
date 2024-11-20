@@ -13,7 +13,7 @@ The **Keep A Child in School** website is dedicated to supporting a community-ba
 ## Technologies Used
 - **HTML5**: For structuring the website's content.
 - **CSS3**: For styling and visual presentation.
-- **JavaScript**: For interactive elements, such as gallery animations.
+- Optional (**JavaScript**): For interactive elements, such as gallery animations.
 
 ## Live Demo
 [View the Live Demo](#)
