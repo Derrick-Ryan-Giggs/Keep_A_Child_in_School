@@ -16,7 +16,7 @@ The **Keep A Child in School** website is dedicated to supporting a community-ba
 - Optional (**JavaScript**): For interactive elements, such as gallery animations.
 
 ## Live Demo
-[View the Live Demo](#)
+[https://keep-a-child-in-school.vercel.app/ ](#)
 
 ## Portfolio Website
 Visit my portfolio to explore this project and more: [My Portfolio](#)
