@@ -16,7 +16,7 @@ The **Keep A Child in School** website is dedicated to supporting a community-ba
 - Optional (**JavaScript**): For interactive elements, such as gallery animations.
 
 ## Live Demo
-https://deft-bombolone-46a390.netlify.app/ 
+https://keep-a-child-in-school.vercel.app/  
 
 ## Portfolio Website
 Visit my portfolio to explore this project and more: https://cheerful-gecko-4280f6.netlify.app/
